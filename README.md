@@ -37,6 +37,7 @@ ai-resume-analyzer/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Score Breakdown Explanation
 
@@ -68,3 +69,8 @@ Semantic: 40
 Impact: 29
 Projects: 71
 Structure: 50
+```
+
+https://ai-resume-analyzer-ctzwgegnjbg5jiptxnggw3.streamlit.app/
+
+Author : Dakshina Nair M
